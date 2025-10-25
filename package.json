@@ -1,7 +1,7 @@
 {
   "name": "n8n-nodes-crawlchat",
   "description": "CrawlChat API Node for n8n",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "homepage": "",
   "keywords": [
